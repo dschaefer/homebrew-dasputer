@@ -1,4 +1,4 @@
-# Dschaefer Dasputer
+# Brew tools for building dasputer
 
 ## How do I install these formulae?
 `brew install dschaefer/dasputer/<formula>`
